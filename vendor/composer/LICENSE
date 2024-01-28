@@ -1,0 +1,58 @@
+ "EUPL-1.1": [
+        "European Union Public License 1.1",
+        true,
+        false
+    ],
+    "EUPL-1.2": [
+        "European Union Public License 1.2",
+        true,
+        false
+    ],
+    "Eurosym": [
+        "Eurosym License",
+        false,
+        false
+    ],
+    "Fair": [
+        "Fair License",
+        true,
+        false
+    ],
+    "FDK-AAC": [
+        "Fraunhofer FDK AAC Codec Library",
+        false,
+        false
+    ],
+    "Frameworx-1.0": [
+        "Frameworx Open License 1.0",
+        true,
+        false
+    ],
+    "FreeBSD-DOC": [
+        "FreeBSD Documentation License",
+        false,
+        false
+    ],
+    "FreeImage": [
+        "FreeImage Public License v1.0",
+        false,
+        false
+    ],
+    "FSFAP": [
+        "FSF All Permissive License",
+        false,
+        false
+    ],
+    "FSFUL": [
+        "FSF Unlimited License",
+        false,
+        false
+    ],
+    "FSFULLR": [
+        "FSF Unlimited License (with License Retention)",
+        false,
+        false
+    ],
+    "FTL": [
+        "Freetype Project License",
+    

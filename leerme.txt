@@ -1,0 +1,8 @@
+Este proyecto lo desarrolle yo mismo hasta los modulos de
+login, venta, inventario, modulos.
+
+La base de datos se llama market-pos
+Tener en cuenta tambien que cuando se crea la base de datos el acotejamiento tiene que ser utf8 y algo mas,
+mirarlo en la base de datos
+
+Siempre se instala composer por la consola
